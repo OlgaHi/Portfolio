@@ -1,6 +1,8 @@
 body {
   font-family: 'Montserrat', sans-serif;
-  background-image: url("images/background_image.jpg");
+  background-image: url('../images/background_image.jpg');
+  
+ 
 }
 img {
   float: right;
@@ -10,4 +12,14 @@ img {
 
 h1 {
   text-align: center;
+}
+
+.description {
+  text-align: center;
+  font-size: x-large;
+}
+
+.project {
+  width: 300px;
+  float: left;
 }
