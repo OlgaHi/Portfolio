@@ -18,7 +18,7 @@ h1 {
 .description {
   text-align: center;
   font-size: x-large;
-  color: darkblue;
+  color:darkred;
 }
 
 div.project_descrip {
@@ -26,11 +26,15 @@ text-align: left;
 font-size: smaller;
 }
 
-.project .pig_image {
+.project .project_image {
   float: inherit;
   width: 250px;
   height: auto;
   box-sizing: border-box;
   margin: auto;
+}
+
+#experience {
+  font-weight: bold;
 }
 
