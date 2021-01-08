@@ -1,6 +1,6 @@
 body {
   font-family: 'Montserrat', sans-serif;
-  background-color: aqua; 
+  background-image: url("images/background_image.jpg");
 }
 img {
   float: right;
