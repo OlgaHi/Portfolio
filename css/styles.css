@@ -18,14 +18,19 @@ h1 {
 .description {
   text-align: center;
   font-size: x-large;
-  box-sizing: border-box;
+  color: darkblue;
 }
 
-.project {
-  width: 300px;
-  float: left;
-  border: none;
-  margin: auto;
-  
-  box-sizing: border-box;
+div.project_descrip {
+text-align: left;
+font-size: smaller;
 }
+
+.project .pig_image {
+  float: inherit;
+  width: 250px;
+  height: auto;
+  box-sizing: border-box;
+  margin: auto;
+}
+
