@@ -1,13 +1,14 @@
 body {
   font-family: 'Montserrat', sans-serif;
   background-image: url('../images/background_image.jpg');
-  
- 
 }
+
 img {
   float: right;
   width: 250px;
-  height: auto;;
+  height: auto;
+  box-sizing: border-box;
+  margin: auto;
 }
 
 h1 {
@@ -17,9 +18,14 @@ h1 {
 .description {
   text-align: center;
   font-size: x-large;
+  box-sizing: border-box;
 }
 
 .project {
   width: 300px;
   float: left;
+  border: none;
+  margin: auto;
+  
+  box-sizing: border-box;
 }
