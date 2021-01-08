@@ -1,5 +1,11 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: aqua; 
+}
 img {
   float: right;
+  width: 250px;
+  height: auto;;
 }
 
 h1 {
