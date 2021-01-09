@@ -30,7 +30,7 @@ A brief webpage about who I am, showing some of my projects. I hope to make this
 ## License
 
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
-Copyright (c) 2021 Alex Warner, Olha Hizhytska and Alan Call
+Copyright (c) 2021 Olha Hizhytska
 
 ## Contact Information
 
