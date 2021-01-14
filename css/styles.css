@@ -1,6 +1,8 @@
 body {
   font-family: 'Montserrat', sans-serif;
   background-image: url('../images/background_image.jpg');
+  padding: 5%;
+  border: solid gray
 }
 
 img {
@@ -22,12 +24,12 @@ h1 {
 }
 
 div.project_descrip {
-text-align: left;
-font-size: smaller;
+  text-align: left;
+  font-size:70%;
 }
 
 .project .project_image {
-  float: inherit;
+  float: right;
   width: 250px;
   height: auto;
   box-sizing: border-box;

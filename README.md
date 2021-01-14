@@ -10,7 +10,7 @@ A brief description about me and my projects
 
 ## Description
 
-A brief webpage about who I am, showing some of my projects. I hope to make this portfolio more interesting and appealing in the future.
+A brief webpage about who I am, showing some of my projects. 
 
 ## Setup
 
